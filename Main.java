@@ -1,12 +1,13 @@
-public class Main {
-
-/*
-   Hello, Katya!
+public class Main { /* Hello, Katya!
    Tram-pam-pam :)
 */
 
     public static void main(String[] args){
-        System.out.println("Hello,W
-        orld!");
+    String s = getMessage();    
+    System.out.println(s);
     }
+    
+    private static String getMessage ({
+        return "Hello from metod!";
+})
 } 
